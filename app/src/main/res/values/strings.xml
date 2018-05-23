@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Version7</string>
+    <string name="hint_name">Enter a name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_flatno">Enter Flatnumber</string>
+    <string name="hint_address">Enter Address</string>
+    <string name="text_title">UsersList</string>
+    <string name="text_hello">Hello</string>
+    <string name="text_accounts">Account details</string>
+    <string name="text_login">Login</string>
+    <string name="text_not_member">Register</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="text_register">Register</string>
+    <string name="error_password_match">passwords donot match</string>
+    <string name="error_message_name">Enter a valid name</string>
+    <string name="error_message_email">Enter a valid email</string>
+    <string name="error_message_password">Enter a valid password</string>
+    <string name="error_message_Flatno">Enter Flatno</string>
+    <string name="error_message_Address">Enter Address</string>
+    <string name="error_valid_email_password">Enter valid password</string>
+    <string name="some_text">Welcome</string>
+    <string name="some_hint">Hello</string>
+</resources>
